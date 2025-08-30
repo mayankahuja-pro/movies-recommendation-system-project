@@ -25,6 +25,9 @@ A content-based movie recommendation system built with Python and Streamlit that
 2. **Similarity Calculation**: Cosine similarity between movie vectors
 3. **Recommendation Engine**: Returns top 5 most similar movies
 4. **Visual Display**: Fetches and displays movie posters
+   
+#Download Dependencies(datasets)
+1.https://drive.google.com/drive/folders/1WV9WwdULdL6fMawuQqT1UbiLlhRcvc4L?usp=drive_link
 
 ## 🏃‍♂️ Run Locally
 
