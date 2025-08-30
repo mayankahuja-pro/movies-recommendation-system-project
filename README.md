@@ -38,3 +38,13 @@ https://drive.google.com/drive/folders/1WV9WwdULdL6fMawuQqT1UbiLlhRcvc4L?usp=dri
 git clone https://github.com/mayankahuja-pro/movie-recommendation-system.git
 cd movie-recommendation-system
 streamlit run app.py
+
+```
+<img width="960" height="448" alt="Screenshot 2025-08-30 151507" src="https://github.com/user-attachments/assets/8abac739-f60a-4413-965f-ca0078369a9c" />
+<img width="954" height="426" alt="Screenshot 2025-08-30 151537" src="https://github.com/user-attachments/assets/b0f35a1e-2c16-4937-9c7c-6ae51a12501d" />
+<img width="960" height="515" alt="Screenshot 2025-08-30 151808" src="https://github.com/user-attachments/assets/35a3ee44-f439-4b79-b507-f54c26a83311" />
+
+
+
+
+
