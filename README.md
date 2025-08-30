@@ -30,5 +30,6 @@ A content-based movie recommendation system built with Python and Streamlit that
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/mayankahuja-pro/movie-recommendation-system.git
 cd movie-recommendation-system
+streamlit run app.py
